@@ -40,8 +40,10 @@ The Employee Management Application is a Java-based desktop application develope
 
 #### Clone the Repository:
  - Clone this repository to your local machine using Git:
- - git clone 
-```https://github.com/your-username/employee-management.git```
+ - Setup:
+```
+git clone https://github.com/Pratik-Poonjani/Employee_Management_Application.git
+```
 
 #### Import Project: 
  - Import the project into your preferred Java IDE (Integrated Development Environment), IntelliJ IDEA.
